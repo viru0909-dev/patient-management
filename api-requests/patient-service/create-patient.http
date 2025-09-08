@@ -3,9 +3,9 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "virendra",
+  "name": "omkar",
   "address": "e-403 roshan milestone",
-  "email": "abcd@gmail.com",
+  "email": "abcd1@gmail.com",
   "dateOfBirth": "1998-08-13",
   "registeredDate": "2025-08-23"
 }
